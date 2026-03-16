@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @tomaszkuehn
 - 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning AI
-- 📫 How to reach me ... look up!
