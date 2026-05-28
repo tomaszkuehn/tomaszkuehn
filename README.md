@@ -5,7 +5,7 @@ Senior Embedded Systems Engineer based in Hamburg, Germany, with 20+ years in wi
 ## 🛠️ Expertise
 - **Languages**: C, C++, Python, Javascript, PHP
 - **Domains**: Embedded firmware, wireless protocols (LoRa/Nanotron), GUI automation, Raspberry Pi setups
-- **Tools**: VSCode, Git, Linux Mint
+- **Tools**: VSCode, Claude, Git, Linux Mint
 
 ## 🚀 Featured Repos
 - AI
